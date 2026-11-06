@@ -2,15 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+Poker Game: Texas Hold'em
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+A game that you can play texas hold'em with computer
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+I will be using Pygame to create a 1v1 Texas Hold'em game with graghic features where you play against a bot. You can check, call/bet/raise, or fold for each round like a normal poker game. There will be a certain amount of chips for you and the bot, and the game will keep count of them. this game should operates like any other Texas Hold'em game. I will also add graghic element for the poker table, chips, cards, and other elements.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,16 +24,16 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+The execution of the game. The worst possible outcome is I failed to add graghics, and the game become a text-based poker game.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+As I described in question #3
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+Everything in the prvious question. Plus, if possible, turning the game into an online game.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+OOP, graghic interface
